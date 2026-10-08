@@ -62,11 +62,21 @@ O Tarefiz é um sistema visual de cartões que centraliza tarefas e fluxos de tr
 
 ## Telas
 
-<!-- Adicione aqui prints do projeto. Exemplo:
-![Quadro de tarefas](./imagens/kanban.png)
-![Relatórios](./imagens/relatorios.png)
-![Gestão de funcionários](./imagens/funcionarios.png)
--->
+**Login**
+
+![Tela de login](./imagens/login.jpg)
+
+**Quadro kanban de tarefas**
+
+![Quadro kanban](./imagens/kanban.jpg)
+
+**Gestão de Funcionários** (módulo que desenvolvi)
+
+![Cadastro de funcionário](./imagens/gestao-funcionarios.jpg)
+
+**Relatórios**
+
+![Relatórios](./imagens/relatorios.jpg)
 
 ---
 
